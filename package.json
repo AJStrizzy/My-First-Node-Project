@@ -1,0 +1,19 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJStrizzy/My-First-Node-Project.git"
+  },
+  "author": "Ariel Strizower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJStrizzy/My-First-Node-Project/issues"
+  },
+  "homepage": "https://github.com/AJStrizzy/My-First-Node-Project#readme"
+}
